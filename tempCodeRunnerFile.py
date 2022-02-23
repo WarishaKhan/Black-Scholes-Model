@@ -1,0 +1,1 @@
+np.std(pd.DataFrame(in_returns.values())
